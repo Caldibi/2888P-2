@@ -1,0 +1,39 @@
+body {
+  background-image: url(back.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.back1 {
+  background-image: url(back1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: rgb(228, 247, 252);
+  font-weight: 500;
+}
+
+.back2 {
+  background-image: url(back2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: rgb(228, 247, 252);
+  font-weight: 500;
+  padding-top: 25px;
+}
+
+.back3 {
+  background-image: url(back3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+}
+.back3 a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}/*# sourceMappingURL=style.css.map */

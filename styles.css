@@ -1,0 +1,19 @@
+.LinkBtn{
+align-items: center;
+justify-content: center;
+display: flex;
+width: auto;
+}
+
+
+.btn1{
+
+height: 50px;
+width: 300px;
+background-color: rgb(50, 228, 130);
+color: rgb(6, 7, 7);
+margin-top: 10px;
+margin-left: -200px;
+padding:10px;
+
+}
